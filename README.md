@@ -79,7 +79,8 @@ Employee_Job_Change_Analytics/
 │   ├── figures/                   # Biểu đồ sinh tự động (EDA, so sánh, ROC, CM, CV, PCA)
 │   └── Bao_cao_du_an.docx         # Báo cáo chi tiết (tiếng Việt, bám 3 mức yêu cầu)
 ├── dashboard/
-│   └── employee_analytics.png        # Ảnh chụp dashboard đã dựng
+│   ├── employee_analytics.png     # Ảnh chụp dashboard đã dựng
+│   └── employee_analytics.pbix    # File dashboard
 ├── requirements.txt
 └── README.md
 ```
