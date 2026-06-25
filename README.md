@@ -102,8 +102,6 @@ python ml/eda.py
 # 4. Train 10 model + tối ưu hóa + K-Fold CV + đánh giá test (sinh results.json + biểu đồ)
 python ml/train_models.py
 
-# 5. Sinh báo cáo Word tiếng Việt từ kết quả
-python ml/generate_report.py
 ```
 
 ### Phần SQL (PostgreSQL 17)
