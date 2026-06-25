@@ -1,0 +1,108 @@
+{
+  "n_rows": 19158,
+  "n_cols": 14,
+  "target_rate": {
+    "0": 0.7507,
+    "1": 0.2493
+  },
+  "missing": {
+    "company_type": {
+      "pct_missing": 32.05,
+      "n_unique": 6
+    },
+    "company_size": {
+      "pct_missing": 30.99,
+      "n_unique": 8
+    },
+    "gender": {
+      "pct_missing": 23.53,
+      "n_unique": 3
+    },
+    "major_discipline": {
+      "pct_missing": 14.68,
+      "n_unique": 6
+    },
+    "education_level": {
+      "pct_missing": 2.4,
+      "n_unique": 5
+    },
+    "last_new_job": {
+      "pct_missing": 2.21,
+      "n_unique": 6
+    },
+    "enrolled_university": {
+      "pct_missing": 2.01,
+      "n_unique": 3
+    },
+    "experience": {
+      "pct_missing": 0.34,
+      "n_unique": 22
+    },
+    "enrollee_id": {
+      "pct_missing": 0.0,
+      "n_unique": 19158
+    },
+    "city": {
+      "pct_missing": 0.0,
+      "n_unique": 123
+    },
+    "relevent_experience": {
+      "pct_missing": 0.0,
+      "n_unique": 2
+    },
+    "city_development_index": {
+      "pct_missing": 0.0,
+      "n_unique": 93
+    },
+    "training_hours": {
+      "pct_missing": 0.0,
+      "n_unique": 241
+    },
+    "target": {
+      "pct_missing": 0.0,
+      "n_unique": 2
+    }
+  },
+  "numeric_describe": {
+    "city_development_index": {
+      "count": 19158.0,
+      "mean": 0.8288,
+      "std": 0.1234,
+      "min": 0.448,
+      "25%": 0.74,
+      "50%": 0.903,
+      "75%": 0.92,
+      "max": 0.949
+    },
+    "training_hours": {
+      "count": 19158.0,
+      "mean": 65.3669,
+      "std": 60.0585,
+      "min": 1.0,
+      "25%": 23.0,
+      "50%": 47.0,
+      "75%": 88.0,
+      "max": 336.0
+    },
+    "experience": {
+      "count": 19093.0,
+      "mean": 10.1001,
+      "std": 6.777,
+      "min": 0.0,
+      "25%": 4.0,
+      "50%": 9.0,
+      "75%": 16.0,
+      "max": 21.0
+    },
+    "last_new_job": {
+      "count": 18735.0,
+      "mean": 2.0004,
+      "std": 1.6756,
+      "min": 0.0,
+      "25%": 1.0,
+      "50%": 1.0,
+      "75%": 3.0,
+      "max": 5.0
+    }
+  }
+}
